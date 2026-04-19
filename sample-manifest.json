@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cbfd97aa-ce04-449f-8079-2117a23fd347",
+  "export_job_id": "df8e4972-6a8b-4496-858c-f6c087f98cb4",
   "id_short": 943298,
-  "published_at": "2026-04-16T07:16:05Z",
+  "published_at": "2026-04-19T19:13:37Z",
   "repo_name": "all-restaurants-in-davenport-moline-rock-island-metro-ia-il-us-sample-943298",
   "sample_asset_name": "beamstation_943298_restaurants-us-davenportmolinerockislandiail_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/943298/beamstation_943298_restaurants-us-davenportmolinerockislandiail_SAMPLE_DIST.csv",
   "sample_records": 83,
-  "sample_sha256": "b9c35691bf76987ff68c60eccf86740ae98f291e9c6d8eecd5adff5a0e13311b",
-  "sample_size_bytes": 308207,
-  "total_records": 832
+  "sample_sha256": "6371f4975a02e10c9e17b1f6222f993b27f1ca2cfd5afb6bd74987c2d9a3feca",
+  "sample_size_bytes": 304979,
+  "total_records": 833
 }
