@@ -1,6 +1,6 @@
 # All Restaurants in Davenport-Moline-Rock Island (Metro), IA-IL, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 87 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `943298` |
 | Location | Davenport-Moline-Rock Island, IA-IL |
 | Category | Restaurants |
-| Full dataset size | 190 records |
-| Free sample size | 19 records (10.0%) |
-| Last export | 2026-04-23T09:49:17.580059+00:00 |
+| Full dataset size | 878 records |
+| Free sample size | 87 records (9.91%) |
+| Last export | 2026-04-30T09:55:58.817633+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-davenport-moline-rock-island-metro-ia-il-us-sample-943298/releases/download/sample-latest/beamstation_943298_restaurants-us-davenportmolinerockislandiail_SAMPLE_DIST.csv) |
 
 ## What is in this sample
